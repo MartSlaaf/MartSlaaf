@@ -8,3 +8,4 @@ Things I do:
 - 🦮 I started [Self Supervised Boy](https://t.me/selfsupervised) channel. Making papers summaries for everything not-so-supervised.
 - 🔪 Wrote [Torch Volume Slicing Dataset](https://github.com/MartSlaaf/TVSD). If you want to train a 2D networks from 3D data, go check it.
 - 🧵 Simple python [cross-stitch](https://github.com/MartSlaaf/cross-stitch) converter, to make cross-stitch scheme out of your image. Simple, yet worthy image processing inside.
+- 🔬 I try to maintain [list](https://github.com/MartSlaaf/MartSlaaf/blob/main/science_tips-n-tricks.md) of recommendations on how to do research work.
